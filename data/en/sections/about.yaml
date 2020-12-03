@@ -1,0 +1,41 @@
+# section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+company:
+  name: Example Co.
+  url: "https://www.example.com"
+
+# your resume. this file path should be relative to you "static" directory
+resume: "files/CV_barka_oussema.pdf"
+
+# a summary about you
+summary: 'I am an engineering student, passionate about the world of dev. I have created web applications using Angular and JEE. I am comfortable with databases and the object-oriented world'
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Github
+  icon: "fab fa-github"
+  url: "https://github.com/oussemabarka"
+
+# your soft skills
+# give the percentage between 50 to 100 with 5 intervals.
+# currently supported colors: blue, yellow, pink, green, sky, orange
+softSkills:
+- name: Motivation
+  percentage: 85
+  color: blue
+- name: Team work
+  percentage: 90
+  color: yellow
+- name: hard working
+  percentage: 85
+  color: blue
+- name: Communication
+  percentage: 85
+  color: yellow

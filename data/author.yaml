@@ -1,0 +1,18 @@
+# some information about you
+name: "Oussema Barka"
+nickname: "OUSSEMA"
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "Hi, I am"
+image: "images/author/test1.PNG"
+# give your some contact information. they will be used in the footer
+contactInfo:
+  email: "oussema.barka@etudiant-isi.utm.tn"
+  phone: "+216 99 063 433"
+
+# some summary about what you do
+summary:
+  - I am a Developer
+  - I love Docker
+  - I love andoid
+  - I work on web site projects
+  - I love to work with some fun projects

@@ -1,0 +1,24 @@
+# section information
+section:
+  name: Certifications
+  id: projects
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# filter buttons
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: Scrum Foundation Professional Certificate
+  icon: "/images/sections/certif/certiprof.jpg"
+
+- name: Certificat Fondamentaux Du Marketing Numérique
+  icon: "/images/sections/certif/goog.jpg"
+
+
+- name: Certificat sur Les Principes de Java
+  icon: "/images/sections/certif/solo.jpg"

@@ -1,0 +1,23 @@
+# section information
+section:
+  name: Skills
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: Web development
+  icon: "/images/sections/skills/dev.png"
+  summary: "Able to design and develop back and front side web applications. Good handling of RESTApis."
+- name: Mobile development
+  icon: "/images/sections/skills/mov.jpg"
+  summary: "Creation of native mobile applications in Android."
+
+- name: Docker
+  icon: "/images/sections/skills/docker.png"
+  summary: "Maniplulate applications with simple container."
