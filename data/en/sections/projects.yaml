@@ -1,7 +1,7 @@
 # section information
 section:
   name: professional experience
-  id: projects
+  id: projectsgit add .
   enable: true
   weight: 4
   showOnNavbar: true
@@ -13,12 +13,25 @@ section:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
-- name: Scrum Foundation Professional Certificate
-  icon: "/images/sections/certif/certiprof.jpg"
+- company:
+    name: Higher Institute of Computer Science
+    location: Ariana, Tunisia
+  positions:
+  - designation: Computer Software Engineering
+    start: Sep 2018
 
-- name: Certificat Fondamentaux Du Marketing Numérique
-  icon: "/images/sections/certif/goog.jpg"
+- company:
+    name: Higher Institute of Computer Science
+    location: Ariana, Tunisia
+  positions:
+  - designation: Fundamental License in IT MANAGMENT
+    start: Sep 2015
+    end: Juin 2018
 
-
-- name: Certificat sur Les Principes de Java
-  icon: "/images/sections/certif/solo.jpg"
+- company:
+    name: High school of Hannibal Ariana
+    location: Ariana, Tunisia
+  positions:
+  - designation: technical science  baccalaureate
+    start: Sep 2011
+    end: Juin 2015
